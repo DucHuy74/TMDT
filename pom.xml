@@ -28,7 +28,9 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
+		<maven.resources.buffer.size>4096</maven.resources.buffer.size>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
